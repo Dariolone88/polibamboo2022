@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="174.22549"
+   height="39.162399"
+   viewBox="0 0 174.22549 39.162399"
+   version="1.1"
+   id="svg5"
+   inkscape:export-filename="bitmap.svg"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false" />
+  <defs
+     id="defs2">
+    <rect
+       x="270.32336"
+       y="156.50299"
+       width="362.1557"
+       height="106.05988"
+       id="rect63" />
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter2627"
+       x="-0.0029600454"
+       y="-0.013443102"
+       width="1.0059201"
+       height="1.0268862">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.0052834295"
+         id="feGaussianBlur2629" />
+    </filter>
+  </defs>
+  <g
+     inkscape:label="Livello 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-270.8942,-169.47293)">
+    <text
+       xml:space="preserve"
+       id="text61"
+       style="font-size:55.4327px;font-family:'Bradley Hand ITC';-inkscape-font-specification:'Bradley Hand ITC, Normal';white-space:pre;shape-inside:url(#rect63);mix-blend-mode:normal;fill:#aa8800;fill-opacity:0.0627451;filter:url(#filter2627)"><tspan
+         x="270.32422"
+         y="207.52719"
+         id="tspan3009"><tspan
+           style="font-family:Playbill;-inkscape-font-specification:'Playbill, Normal';opacity:1;fill:#edefd4;fill-opacity:0.899244;stroke:#000000"
+           id="tspan3007">POLIBAMBOO</tspan></tspan></text>
+  </g>
+</svg>
