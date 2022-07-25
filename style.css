@@ -52,8 +52,16 @@ span {
   text-justify: auto;
 }
 
-.schema-montaggio {
-  width: 25%;
+.scheda-montaggio {
+padding-right: 1rem;
+}
+
+.donwload-img {
+  padding-left: 5rem;
+}
+
+.fa-solid {
+  color: white;
 }
 
 .contatti {
@@ -95,4 +103,8 @@ input[type=submit] {
 
 input[type=submit]:hover {
   background-color: #45a049;
+}
+
+.btn-invio {
+  margin-top: 1rem;
 }
