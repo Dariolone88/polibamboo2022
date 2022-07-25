@@ -21,38 +21,38 @@
   <body>
     <!-- NAV BAR -->
 
-    <nav class="navbar sticky-top navbar-expand-lg navbar-dark">
-      <div class="container-fluid">
-        <a class="navbar-brand" href="#"
-          ><!-- <img src="image/logo_polibamboo.png" alt=""> -->Polibamboo</a
-        >
-        <button
-          class="navbar-toggler"
-          type="button"
-          data-bs-toggle="collapse"
-          data-bs-target="#navbarNavAltMarkup"
-          aria-controls="navbarNavAltMarkup"
-          aria-expanded="false"
-          aria-label="Toggle navigation"
-        >
-          <span class="navbar-toggler-icon"></span>
-        </button>
-        <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
-          <div class="navbar-nav">
-            <a class="nav-link active" href="#fotoGallery">Foto Gallery</a>
-            <a class="nav-link active" href="#informazioni">Informazioni</a>
-            <a class="nav-link active" href="#contatti">Contattaci</a>
+      <nav class="navbar sticky-top navbar-expand-lg navbar-dark">
+        <div class="container" id="nav">
+          <a class="navbar-brand" href="#nav"
+            > <img src="image/logo poli.svg" alt=""></a
+          >
+          <button
+            class="navbar-toggler"
+            type="button"
+            data-bs-toggle="collapse"
+            data-bs-target="#navbarNavAltMarkup"
+            aria-controls="navbarNavAltMarkup"
+            aria-expanded="false"
+            aria-label="Toggle navigation"
+          >
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+            <div class="navbar-nav">
+              <a class="nav-link active" href="#fotoGallery">Foto Gallery</a>
+              <a class="nav-link active" href="#informazioni">Informazioni</a>
+              <a class="nav-link active" href="#contatti">Contattaci</a>
+            </div>
           </div>
         </div>
-      </div>
-    </nav>
+      </nav>
 
     <!-- FOTO GALLERY -->
 
     <div id="fotoGallery">
       <div
         id="carouselExampleControls"
-        class="container-fluid carousel slide"
+        class="container carousel slide"
         data-bs-ride="carousel"
       >
         <div class="carousel-inner">
@@ -111,9 +111,9 @@
 
     <!-- INFORMAZIONI -->
 
-    <div class="container-fluid informazioni" id="informazioni">
+    <div class="container informazioni" id="informazioni">
       <div class="row">
-        <div class="col-9">
+        <div class="col">
           <p>
             <span>Le lastre in policarbonato alveolare Polibamboo</span> sono un
             prodotto innovativo, ideale per la realizzazione di coperture e
@@ -198,8 +198,8 @@
 
     <!-- CONTATTI-->
 
-    <div class="container-fluid contatti" id="contatti">
-      <form name="formmail" method="post" action="info@medacciai.it">
+    <div class="container contatti" id="contatti">
+      <form name="formmail" method="post" action="malito:info@medacciai.it">
         <input
           type="hidden"
           name="successo"
@@ -237,7 +237,7 @@
           placeholder="Scrivi il tuo messaggio"
         ></textarea>
 
-        <input type="submit" value="Invia Richiesta" />
+        <input class="btn-invio" type="submit" value="Invia Richiesta" />
       </form>
     </div>
 
